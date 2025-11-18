@@ -18,7 +18,7 @@ int main()
     vector<int> vec = {12, 12, 1, 3, 3};
     for (int x : vec)
     {
-        cout << ans << "^" << x << "=";
+        cout << ans << "^" << x << "="; 
         ans = ans ^ x;
         cout << ans << endl;
     }
