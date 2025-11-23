@@ -1,0 +1,11 @@
+[33m3031565[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33mfda33e6[m HEAD@{1}: reset: moving to HEAD~1
+[33ma0a50cb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: commit: gitigonore
+[33mfda33e6[m HEAD@{3}: commit: ignoring_file
+[33m3031565[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{4}: commit: push
+[33mc6742a0[m HEAD@{5}: commit: subarry
+[33m34e8559[m HEAD@{6}: commit: push
+[33m0c5788b[m HEAD@{7}: Branch: renamed refs/heads/main to refs/heads/main
+[33m0c5788b[m HEAD@{9}: Branch: renamed refs/heads/main to refs/heads/main
+[33m0c5788b[m HEAD@{11}: commit: first commit
+[33me2c9d9d[m HEAD@{12}: commit (initial): adding lec
